@@ -56,6 +56,7 @@ If you would like to name your database something else, you will need to change 
 Once everything is installed and running it should open in your default browser - if not, navigate to http://localhost:3000/#/.
 
 Video walkthrough of application usage: https://youtu.be/HhJHQm0KJKw
+Prime Digital Academy prototype presentation: https://fb.watch/qZhwsRDN0T/
 
 NOTE: The endpoint (api) that you should use to connect the Modit Mobile app is found in `server/routes/modit.router.js`
 
